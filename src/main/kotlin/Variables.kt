@@ -22,4 +22,5 @@ fun main(){
 
     val potencia: String?
     potencia = null
+
 }
