@@ -9,6 +9,8 @@ fun main(){
     println(publicacion)
 }
 
+
+
 class Post( val tituloPost: String,
             val autorPost: String,
             val contenido: String,
