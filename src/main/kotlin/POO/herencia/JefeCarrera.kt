@@ -1,4 +1,4 @@
-package POO
+package POO.herencia
 
 //1) heredar de la clase persona
 //2) deben pillar 2 atributos q tienen en particular solamente unjefe de carrera

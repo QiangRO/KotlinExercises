@@ -1,4 +1,4 @@
-package POO
+package POO.herencia
 
 class Docentes(
     nombre: String,

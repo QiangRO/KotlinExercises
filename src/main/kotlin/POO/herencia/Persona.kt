@@ -1,4 +1,4 @@
-package POO
+package POO.herencia
 
 open class Persona(
     open val nombre: String,

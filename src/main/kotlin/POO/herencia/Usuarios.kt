@@ -1,6 +1,4 @@
-package GettersSetters
-
-import javax.swing.tree.VariableHeightLayoutCache
+package POO.herencia
 
 open class Usuarios (){
     //GETTERS y SETTER MANUALES

@@ -1,4 +1,4 @@
-package GettersSetters
+package POO.herencia
 
 fun main(){
     //val usuario = Usuario("abc@gmail.com", "123456")
