@@ -11,7 +11,7 @@ package POO.Interfaces
 * En lo posible hay que tratar de aplicar conceptos abstractos a la hora
 * de definir comportamientos solo cuando este no varie
 *
-* HERENCIA: Misma naturaleza direcata de padre e hijo
+* HERENCIA: Misma naturaleza directa de padre e hijo
 * INTERFAZ: Comportamientos es lo que mas andas ajustando y cambiando en tu proyecto
 * son parecidos o bajo el mismo criterio implementable en cualquiera clase del Software*/
 
